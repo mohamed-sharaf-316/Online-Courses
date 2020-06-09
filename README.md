@@ -4,6 +4,13 @@ Online Course Registration System
 Installation Steps(Configuration)
 
 1. Put this file inside root directory
+
+For the project to fully function the files must be put in a specific sequence, the sequence of files was changed for uploading only.
+
+The Sequence:
+
+Inside the folder "onlinecourse", all "student functions" files are put.
+
 2. Database Configuration
 
 Database Configuration
