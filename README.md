@@ -21,7 +21,7 @@ Password:Test@123
 To Login as Student put inside browser “http://localhost/onlinecourse/”
 Login Details for Student: 
 
-USer name:10806121
+User name:10806121
 Password:Test@123
 
 Student Pincode for enroll Course Student: 715948
