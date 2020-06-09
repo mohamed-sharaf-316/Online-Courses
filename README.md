@@ -13,15 +13,15 @@ Create a folder "onlinecourse", all "Student Functions" files are put in this fo
 
 To make the final folder directory as follows:
 
-// The following folfers and files regard the "Admin" Module
-onlinecourse/admin/assets
-onlinecourse/admin/includes
-onlinecourse/admin/"All Admin Functions' Files".php
+// The following folders and files regard the "Admin" Module
+onlinecourse/admin/assets||
+onlinecourse/admin/includes||
+onlinecourse/admin/"All Admin Functions' Files".php||
 
 // The following folders and files regard the "Student" Module
-onlinecourse/assets
-onlinecourse/includes
-onlinecourse/"All Student Functions' Files".php
+onlinecourse/assets||
+onlinecourse/includes||
+onlinecourse/"All Student Functions' Files".php||
 
 2. Database Configuration
 
