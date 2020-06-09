@@ -9,7 +9,19 @@ For the project to fully function the files must be put in a specific sequence, 
 
 The Sequence:
 
-Inside the folder "onlinecourse", all "student functions" files are put.
+Create a folder "onlinecourse", all "Student Functions" files are put in this folder. Both of the folders "assets" and "includes" in the directory "Web Design/Student" are also put in the folder "online course". Then create a new folder "admin" inside the folder "onlinecourse"; inside which all "Admin Functions" files are put in addition to Both of the folders "assets" and "includes" in the directory "Web Design/Admin".
+
+To make the final folder directory as follows:
+
+// The following folfers and files regard the "Admin" Module
+onlinecourse/admin/assets
+onlinecourse/admin/includes
+onlinecourse/admin/"All Admin Functions' Files".php
+
+// The following folders and files regard the "Student" Module
+onlinecourse/assets
+onlinecourse/includes
+onlinecourse/"All Student Functions' Files".php
 
 2. Database Configuration
 
